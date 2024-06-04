@@ -9,9 +9,9 @@
 
 - 🌱 Proficient in Data Structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://ravisingh007ravi/ravisingh007ravi](https://ravisingh007ravi/ravisingh007ravi)
+- 👨‍💻 All of my projects are available at [https://ravisingh007ravi/ravisingh007ravi](https://github.com/ravisingh007ravi)
 
-- 💬 Ask me about Graphic Novels **(PS :- Batman: The Killing joke is the best One.)**
+- 💬 Ask me about Graphic Novels **(PS :- Batman: The Killing joker is the best one.)**
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
