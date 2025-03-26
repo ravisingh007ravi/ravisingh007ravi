@@ -1,26 +1,63 @@
 <h1 align="center">Hi 👋, I'm Ravi Singh</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A Passionate MERN Stack Developer from India 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=httpsrravisingh007ravi&label=Profile%20views&color=0e75b6&style=flat" alt="httpsrravisingh007ravi" /> </p>
-
-- 🔭 I’m currently working on **Proficient in MERN**
-
-- 🌱 Proficient in Data Structure and Algorithm**
-
-- 👨‍💻 All of my projects are available at [https://ravisingh007ravi/ravisingh007ravi](https://github.com/ravisingh007ravi)
-
-- 💬 Ask me about Graphic Novels **(PS :- Batman: The Killing joker is the best one.)**
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/ravi-singh-763378182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/ravi-singh-763378182" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007642129369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007642129369" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ravi_singh_thakur_78/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ravi_singh_thakur_78/" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ravisingh007ravi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 About Me  
+🔭 Currently working on **full-stack MERN projects**  
+🌱 Exploring **Data Structures & Algorithms**  
+👨‍💻 Check out my work at [GitHub](https://github.com/ravisingh007ravi)  
+💬 Ask me about **JavaScript, React, Node.js, and Batman: The Killing Joke** 🦇  
+⚡ Fun Fact: **I love solving complex problems & making memes 😆**  
 
+---
+
+## 🔗 Connect With Me  
+<p align="left">
+  <a href="https://linkedin.com/in/ravi-singh-763378182" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100007642129369" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/ravi_singh_thakur_78/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack  
+### 🚀 Languages & Frameworks  
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,python" alt="Tech Stack" />
+</p>
+
+### 🛠️ Tools & Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,ps" alt="Tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravisingh007ravi&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravisingh007ravi&theme=radical" width="48%"/>
+</p>
+
+---
+
+### 🎯 Fun Projects  
+🚀 **Latest Projects:**  
+- [Project 1](#) - Brief description  
+- [Project 2](#) - Brief description  
+- [Project 3](#) - Brief description  
+
+---
+
+⭐ **Feel free to connect & collaborate! Let's build something amazing.** 🚀  
